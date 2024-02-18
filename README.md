@@ -1,16 +1,5 @@
-# ath11k-firmware
+ath11k-firmware.git has moved to:
 
-Firmware files for ath11k, a mac80211 driver for Qualcomm Technologies
-802.11ax devices
+https://git.codelinaro.org/clo/ath-firmware/ath11k-firmware
 
-For more info check the wiki page:
-
-https://wireless.wiki.kernel.org/en/users/drivers/ath11k
-
-Please send bug reports to bugzilla.kernel.org:
-
-https://wireless.wiki.kernel.org/en/users/drivers/ath11k/bugreport
-
-Questions, comments and feature requests to the ath11k mailing list:
-
-https://wireless.wiki.kernel.org/en/users/drivers/ath11k/mailinglist
+This github.com repository is not updated anymore and will be deleted June 2024.
